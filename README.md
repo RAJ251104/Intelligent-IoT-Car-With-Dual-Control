@@ -120,5 +120,5 @@ README.md
 ## 👤 Author
 
 **Raj Rokade**  
-🔗 https://www.linkedin.com/in/raj-rokade-b271a826a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app  
+🔗 www.linkedin.com/in/raj-rokade-b271a826a
 📧 rajrokade2511@gmail.com
